@@ -55,7 +55,7 @@ const Projects = () => {
     {
       name: 'BargainBazzar',
       description: 'An e-commerce application with online purchasing capabilities, developed using the MERN stack.',
-      link: '#',
+      link: 'https://drive.google.com/file/d/1bDFuQ3NosSKjPa9fAD8_BIl_LDVO7yy1/view?usp=sharing',
     },
   ];
 
