@@ -46,8 +46,8 @@ const Home = () => {
 
   // Links to your social media
   const socialLinks = {
-    github: "https://github.com/yourusername",
-    linkedin: "https://linkedin.com/in/yourusername",
+    github: "https://github.com/WinuWijegunawardhana98",
+    linkedin: "https://www.linkedin.com/in/winodya-wijegunawardhana-a41998217/",
     facebook: "https://facebook.com/yourusername",
     instagram: "https://instagram.com/yourusername",
   };
