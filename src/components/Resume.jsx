@@ -45,7 +45,6 @@ const Resume = () => {
         Download Resume
       </a>
       <p style={{ color: '#a3d9a5', fontSize: '1.2rem', marginTop: '20px' }}>
-        {/* Fixed href to point to a contact section */}
         <a 
           href="#contact"  
           style={{
@@ -60,6 +59,16 @@ const Resume = () => {
           Contact Me
         </a>
       </p>
+
+      {/* Contact Information */}
+      <div style={{ marginTop: '30px' }}>
+        <p style={{ color: '#d1d1d1', fontSize: '1.2rem', marginBottom: '10px' }}>
+          <strong>Email:</strong> <a href="mailto:winodyawijegunawardhana@gmail.com" style={{ color: '#00bcd4', textDecoration: 'none' }}>winodyawijegunawardhana@gmail.com</a>
+        </p>
+        <p style={{ color: '#d1d1d1', fontSize: '1.2rem' }}>
+          <strong>WhatsApp:</strong> +94 0771783672
+        </p>
+      </div>
     </section>
   );
 };
