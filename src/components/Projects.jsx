@@ -20,7 +20,7 @@ const Projects = () => {
     {
       name: 'Meddonate (Mobile App)',
       description: 'A mobile app connecting donors with patients in need of medical supplies, built with React, Firebase, and Java backend services.',
-      link: '#',
+      link: 'https://www.linkedin.com/posts/winodya-wijegunawardhana-a41998217_this-is-our-second-year-group-project-of-activity-7080937118285369344-e1zm?utm_source=share&utm_medium=member_desktop',
     },
     {
       name: 'Virtual Fitting Room (Glamour Grab)',
@@ -45,7 +45,7 @@ const Projects = () => {
     {
       name: 'ChatBot Project',
       description: 'A simple chatbot with voice input and output, built using Materialize for UI design.',
-      link: '#',
+      link: 'https://drive.google.com/file/d/1dgRMGlGf5Ymch4SVg4u3IlOxJtBjPN7V/view?usp=drive_link',
     },
     {
       name: 'College-Courses API',
