@@ -79,7 +79,7 @@ const Projects = () => {
               boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)', 
               padding: '20px',
               margin: '15px',
-              width: '300px',
+              width: '300px', /* Default width */
               textAlign: 'center',
               transition: 'transform 0.3s ease, box-shadow 0.3s ease',
               cursor: 'pointer',

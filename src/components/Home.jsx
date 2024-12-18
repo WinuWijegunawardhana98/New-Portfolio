@@ -15,7 +15,7 @@ const Home = () => {
   };
 
   const neonTextStyle = {
-    fontSize: "3rem",
+    fontSize: "3rem", // Main text size
     textShadow: "0 0 15px #00ffff, 0 0 30px #ff00ff",
   };
 
@@ -25,7 +25,7 @@ const Home = () => {
   };
 
   const imageStyle = {
-    width: "150px", // Adjust the size of the image
+    width: "150px", // Default size of the image
     height: "150px",
     borderRadius: "50%",
     marginBottom: "20px",
